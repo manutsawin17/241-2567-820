@@ -14,7 +14,6 @@ let students = [
     },
 ]
 
-
 let stude
 nt = students.find((s) => {
     if  (s.name == 'John') {
