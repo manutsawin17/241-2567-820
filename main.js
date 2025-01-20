@@ -15,7 +15,8 @@ let students = [
 ]
 
 
-let student = students.find((s) => {
+let stude
+nt = students.find((s) => {
     if  (s.name == 'John') {
         return true;
     }
